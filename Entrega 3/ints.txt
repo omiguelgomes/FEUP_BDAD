@@ -1,0 +1,10 @@
+int 1 - nome, nif from person
+int 2 - trainid, capacity from train
+int 3 - avg(wage) by position
+int 4 - top10 clientes mais frequentes
+int 5 - numero de comboios por linha
+int 6 - numero de comboios conduzidos por condutor
+int 7 - numero de pessoas por genero
+int 8 - numero de pessoas por posicao
+int 9 - full time-table
+int 10 - numero de horas de cada comboio
